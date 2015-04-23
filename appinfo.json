@@ -1,0 +1,38 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Donnie",
+    "longName": "Doctor Who Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[0-9:. ]",
+                "file": "fonts/DoctorWhat.ttf",
+                "name": "FONT_DOCTOR_WHO_56",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9:. a-zA-Z]",
+                "file": "fonts/DoctorWhat.ttf",
+                "name": "FONT_DOCTOR_WHO_30",
+                "type": "font"
+            },
+            {
+                "file": "images/Doctor_Who_Logo2.png",
+                "name": "IMAGE_DOCTOR_WHO_LOGO",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Doctor Who",
+    "uuid": "60beea48-2282-4e2c-b24b-566a3a479c0e",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
