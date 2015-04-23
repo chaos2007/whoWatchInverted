@@ -3,36 +3,18 @@
     "capabilities": [
         ""
     ],
-    "companyName": "Donnie",
-    "longName": "Doctor Who Watch",
+    "companyName": "chaos2007@gmail.com",
+    "longName": "Doctor Who Inverted",
     "projectType": "native",
     "resources": {
-        "media": [
-            {
-                "characterRegex": "[0-9:. ]",
-                "file": "fonts/DoctorWhat.ttf",
-                "name": "FONT_DOCTOR_WHO_56",
-                "type": "font"
-            },
-            {
-                "characterRegex": "[0-9:. a-zA-Z]",
-                "file": "fonts/DoctorWhat.ttf",
-                "name": "FONT_DOCTOR_WHO_30",
-                "type": "font"
-            },
-            {
-                "file": "images/Doctor_Who_Logo2.png",
-                "name": "IMAGE_DOCTOR_WHO_LOGO",
-                "type": "png"
-            }
-        ]
+        "media": []
     },
     "sdkVersion": "2",
-    "shortName": "Doctor Who",
-    "uuid": "60beea48-2282-4e2c-b24b-566a3a479c0e",
+    "shortName": "Doctor Who Inverted",
+    "uuid": "17a6814c-664f-46b6-bc6b-923627cc7aca",
     "versionCode": 1,
     "versionLabel": "1.0",
     "watchapp": {
-        "watchface": true
+        "watchface": false
     }
 }
